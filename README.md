@@ -1,7 +1,7 @@
 # Project1
 
 # Update from Chris, November 3 2018:
-I'm pretty sure there's an issue inside the JS used to call the github API. It's probably just that the code is old. Anyways, I fixed up the front end so it's not total trash, and you can look around most of the project to get an idea of how it used to work. You'll need to manually explore the file structure if you want to see anything, though. The naming convention was really confusing at this point in my dev career, but the app is intended to go from "index.html" to "app.html" I'm not gonna bother updating the code any further, though. It's just not worth the time when I could be building things in React.
+I got the code all functional again. I'm gonna host it on my website for ease of access. The theme is different than it was originally, and all the original bugs are still there, but other than that it still works like a charm!
 
 Chris, Owen, and Curtis' first project in UNC Bootcamp
 
